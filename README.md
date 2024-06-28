@@ -1,1 +1,2 @@
-# Disease_Prediction
+# Heart Disease Prediction using Logistic Regression
+This project implements a simple disease prediction system using Logistic Regression. The heart disease dataset is loaded from a CSV file, explored for insights, and preprocessed by separating features and the target variable. The data is then split into training and test sets. A Logistic Regression model is trained on the training set, evaluated on both training and test sets, and used to make predictions about heart disease presence based on given medical attributes. 
